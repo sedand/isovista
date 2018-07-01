@@ -3,11 +3,38 @@
       {
         "tensorName": "LMU Munich Oet67",
         "tensorShape": [
-          300000,
+          100000,
           6
         ],
-        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/LMU_Munich_Oet67.bytes",
+        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/LMU_Munich_Oet67_100K.bytes",
         "metadataPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/metadata_LMU%20Munich%20Oet67.tsv"
+      },
+      {
+        "tensorName": "Queens University CSC",
+        "tensorShape": [
+          100000,
+          6
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/Queens_University_CSC_100K.bytes",
+        "metadataPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/metadata_Queens%20University%20CSC.tsv"
+      },
+      {
+        "tensorName": "TU Munich Main",
+        "tensorShape": [
+          100000,
+          6
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/TU_Munich_Main_100K.bytes",
+        "metadataPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/metadata_TU%20Munich%20Main.tsv"
+      },
+      {
+        "tensorName": "Hotel",
+        "tensorShape": [
+          100000,
+          6
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/Hotel_100K.bytes",
+        "metadataPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/metadata_Hotel.tsv"
       }
     ]
   }
