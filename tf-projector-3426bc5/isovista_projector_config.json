@@ -6,7 +6,7 @@
           300000,
           6
         ],
-        "tensorPath": "https://github.com/sedand/isovista/raw/master/tf-projector-3426bc5/LMU_Munich_Oet67.bytes",
+        "tensorPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/LMU_Munich_Oet67.bytes",
         "metadataPath": "https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/metadata_LMU%20Munich%20Oet67.tsv"
       }
     ]
