@@ -1,4 +1,4 @@
-# isovista
+# isovista: Learning Indoor Space Perception
 A Framework for Discovering and Learning Recurring Structures in Building Floor Plans
 
 ## Tensorboard Projector PCA Visualization
