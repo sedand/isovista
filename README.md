@@ -1,6 +1,8 @@
 # isovista: Learning Indoor Space Perception
 A Framework for Discovering, Learning and Comparing Recurring Structures in Building Floor Plans
 
+> Release in progress...
+
 ![](img/tum_rays.png)
 
 ![map LMU kmeans](img/map_LMU_kmeans_cut.jpg)
