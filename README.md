@@ -1,7 +1,7 @@
 # isovista: Learning Indoor Space Perception
 A Framework for Discovering, Learning and Comparing Recurring Structures in Building Floor Plans
 
-> Release in progress...
+> [Jupyter Notebook (Cluster/Train/Predict/Compare)](isovista_cluster_train_predict_compare.ipynb)
 
 ![](img/tum_rays.png)
 
