@@ -6,6 +6,7 @@ A Framework for Discovering, Learning and Comparing Recurring Structures in Buil
 - See
 [Jupyter Notebook](isovista_cluster_train_predict_compare.ipynb)
 for Cluster/Train/Predict/Compare steps
+- See [floorplan](/floorplan) folder for floorplan blender files
 - See [Tensorboard Projector](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/sedand/isovista/master/tf-projector-3426bc5/isovista_projector_config.json) for interactive PCA Visualization
 
 ## Screenshots:
